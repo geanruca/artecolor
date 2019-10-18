@@ -61,7 +61,7 @@
             <div class="container">
                 <!-- LOGO -->
                 <a class="navbar-brand logo" href="index.html">
-                    ArteColor
+                    Kalvin
                 </a>
 
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +72,17 @@
                     <ul class="navbar-nav ml-auto">
                         <!--Nav Links-->
                         <li class="nav-item">
+<<<<<<< HEAD
                             <a href="#" class="nav-link active" data-scroll-nav="0" >Inicio</a>
+=======
+                            <a href="#" class="nav-link active" data-scroll-nav="0">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-scroll-nav="1">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-scroll-nav="2">Services</a>
+>>>>>>> 85b8505b4ca99e3130500f2e5c2eab103d17ae47
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link" data-scroll-nav="1" >Somos</a>
