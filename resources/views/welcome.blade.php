@@ -50,18 +50,12 @@
 
     <body>
 
-        <!--Preloader--
-        <div class="preloader">
-            <div class="loader "></div>
-        </div>
-        --Preloader-->
-
         <!--Navbar Start-->
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
                 <!-- LOGO -->
                 <a class="navbar-brand logo" href="index.html">
-                    Kalvin
+                    ArteColor
                 </a>
 
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -70,25 +64,15 @@
 
                 <div class="navbar-collapse collapse" id="navbarCollapse">
                     <ul class="navbar-nav ml-auto">
-                        <!--Nav Links-->
+
                         <li class="nav-item">
-<<<<<<< HEAD
-                            <a href="#" class="nav-link active" data-scroll-nav="0" >Inicio</a>
-=======
-                            <a href="#" class="nav-link active" data-scroll-nav="0">Home</a>
+                            <a href="#" class="nav-link active" data-scroll-nav="0">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="1">About</a>
+                            <a href="#" class="nav-link" data-scroll-nav="1">Somos</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="2">Services</a>
->>>>>>> 85b8505b4ca99e3130500f2e5c2eab103d17ae47
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="1" >Somos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="2" >Servicios</a>
+                            <a href="#" class="nav-link" data-scroll-nav="2">Servicios</a>
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link" data-scroll-nav="3">Contacto</a>
