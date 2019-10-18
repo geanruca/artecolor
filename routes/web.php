@@ -13,4 +13,5 @@
 
 Route::get('/', function () {
     return view('welcome');
+    Route::post('/enviar_contacto','ContactosController@enviar_contacto')->name('enviar_contacto');
 });
