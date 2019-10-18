@@ -61,7 +61,7 @@
             <div class="container">
                 <!-- LOGO -->
                 <a class="navbar-brand logo" href="index.html">
-                    ArteColor
+                    Kalvin
                 </a>
 
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,13 +72,13 @@
                     <ul class="navbar-nav ml-auto">
                         <!--Nav Links-->
                         <li class="nav-item">
-                            <a href="#" class="nav-link active" data-scroll-nav="0" >Home</a>
+                            <a href="#" class="nav-link active" data-scroll-nav="0">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="1" >About</a>
+                            <a href="#" class="nav-link" data-scroll-nav="1">About</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link" data-scroll-nav="2" >Services</a>
+                            <a href="#" class="nav-link" data-scroll-nav="2">Services</a>
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link" data-scroll-nav="3">Works</a>
@@ -620,7 +620,7 @@
         <!--Footer End-->
 
         <!--Jquery js-->
-        <script src="../code.jquery.com/jquery-3.0.0.min.js"></script>
+        <script src="js/jquery-3.0.0.min.js"></script>
         <!--Bootstrap js-->
         <script src="js/bootstrap.min.js"></script>
         <!--Stellar js-->
