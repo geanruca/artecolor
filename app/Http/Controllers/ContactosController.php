@@ -11,7 +11,6 @@ use Illuminate\Support\Facades\Mail;
 class ContactosController extends Controller
 {
     public function enviar_contacto(Request $r){
-        
         \Log::info($r->all());
         $r->validate([
             "nombre"   => "required",

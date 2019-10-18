@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from kalvin.netlify.com/index-main.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Oct 2019 16:28:42 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 
         <meta charset="utf-8">
@@ -54,7 +54,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
                 <!-- LOGO -->
-                <a class="navbar-brand logo" href="index.html">
+                <a class="navbar-brand logo">
                     ArteColor
                 </a>
 
@@ -64,7 +64,6 @@
 
                 <div class="navbar-collapse collapse" id="navbarCollapse">
                     <ul class="navbar-nav ml-auto">
-
                         <li class="nav-item">
                             <a href="#" class="nav-link active" data-scroll-nav="0">Inicio</a>
                         </li>
@@ -364,152 +363,6 @@
         </section>
         <!--Portfolio Section End-->
 
-        <!--Blog Section Start--
-        <section class="blogs pt-100 pb-100 bg-gray" data-scroll-index="4">
-            <div class="container">
-                <div class="row">
-                    <div class="col text-center">
-                        <div class="heading text-center">
-                            <h6>Blog</h6>
-                            <h2>Latest News</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="owl-carousel owl-theme">
-                        --Blogs Item--
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="single-blog.html">
-                                    <img src="img/blog/img-1.jpg" alt="">
-                                </a>
-                            </div>
-                            <div class="blog-content">
-                                <h3>The best of web design and web design inspiration</h3>
-                                <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first ...</p>
-                                <div class="blog-meta">
-                                    <span class="more">
-                                        <a href="single-blog.html">Read More</a>
-                                    </span>
-                                    <span class="date">
-                                        1/April/2018
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                        --Blogs Item--
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="single-blog.html">
-                                    <img src="img/blog/img-2.jpg" alt="">
-                                </a>
-                            </div>
-                            <div class="blog-content">
-                                <h3>The best of web design and web design inspiration</h3>
-                                <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first ...</p>
-                                <div class="blog-meta">
-                                    <span class="more">
-                                        <a href="single-blog.html">Read More</a>
-                                    </span>
-                                    <span class="date">
-                                        1/April/2018
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                        --Blogs Item--
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="single-blog.html">
-                                    <img src="img/blog/img-3.jpg" alt="">
-                                </a>
-                            </div>
-                            <div class="blog-content">
-                                <h3>The best of web design and web design inspiration</h3>
-                                <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first ...</p>
-                                <div class="blog-meta">
-                                    <span class="more">
-                                        <a href="single-blog.html">Read More</a>
-                                    </span>
-                                    <span class="date">
-                                        1/April/2018
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                        --Blogs Item--
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <a href="single-blog.html">
-                                    <img src="img/blog/img-4.jpg" alt="">
-                                </a>
-                            </div>
-                            <div class="blog-content">
-                                <h3>The best of web design and web design inspiration</h3>
-                                <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first ...</p>
-                                <div class="blog-meta">
-                                    <span class="more">
-                                        <a href="single-blog.html">Read More</a>
-                                    </span>
-                                    <span class="date">
-                                        1/April/2018
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col text-center">
-                        <div class="blog-button pt-40">
-                            <a class="main-btn" href="blogs-page.html">View More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        --Blog Section End-->
-
-        <!--Testimonials Section Start--
-        <section class="testimonials pt-100 pb-100" style="background-image: url('img/background/testimonials-bg.jpg')">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-10 offset-lg-1">
-                        <div class="owl-carousel owl-theme text-center">
-                            --Testimonials Item--
-                            <div class="testimonial-item">
-                                <div class="author-img">
-                                    <img src="img/testimonial/img-1.jpg" alt="">
-                                </div>
-                                <h5>Mr John Doe</h5>
-                                <span>Creative Director</span>
-                                <p>Dolor facilis veritatis doloremque dicta eos Voluptate earum nulla ad et esse Saepe asperiores nisi facere ipsam corporis. Dolorem praesentium tenetur tempore dolorem illum autem? Veritatis fuga quasi sunt tenetur. Expedita id eaque incidunt beatae nesciunt! In similique exercitationem tempore excepturi placeat Nostrum ducimus dicta temporibus quas!</p>
-                            </div>
-                            --Testimonials Item--
-                            <div class="testimonial-item">
-                                <div class="author-img">
-                                    <img src="img/testimonial/img-1.jpg" alt="">
-                                </div>
-                                <h5>Mr John Doe</h5>
-                                <span>Creative Director</span>
-                                <p>Dolor facilis veritatis doloremque dicta eos Voluptate earum nulla ad et esse Saepe asperiores nisi facere ipsam corporis. Dolorem praesentium tenetur tempore dolorem illum autem? Veritatis fuga quasi sunt tenetur. Expedita id eaque incidunt beatae nesciunt! In similique exercitationem tempore excepturi placeat Nostrum ducimus dicta temporibus quas!</p>
-                            </div>
-                            --Testimonials Item--
-                            <div class="testimonial-item">
-                                <div class="author-img">
-                                    <img src="img/testimonial/img-1.jpg" alt="">
-                                </div>
-                                <h5>Mr John Doe</h5>
-                                <span>Creative Director</span>
-                                <p>Dolor facilis veritatis doloremque dicta eos Voluptate earum nulla ad et esse Saepe asperiores nisi facere ipsam corporis. Dolorem praesentium tenetur tempore dolorem illum autem? Veritatis fuga quasi sunt tenetur. Expedita id eaque incidunt beatae nesciunt! In similique exercitationem tempore excepturi placeat Nostrum ducimus dicta temporibus quas!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        --Testimonials Section End-->
-
         <!--Contact Section Start-->
         <section class="contact pt-100 pb-100" data-scroll-index="3">
             <div class="container">
@@ -524,7 +377,7 @@
                 <div class="row">
                     <div class="col-lg-10 offset-lg-1">
                         <!--Contact Form-->
-                    <form id='contact-form' method='POST' action="" autocomplete="on">
+                    <form id='contact-form' method='POST' action="{{ route('enviar_contacto') }}" autocomplete="on">
                         @CSRF
                             <input type='hidden' name='form-name' value='contactForm' />
                             <div class="row">
@@ -584,7 +437,7 @@
                         <!--Contant Item-->
                         <div class="contact-info">
                             <h5>Email</h5>
-                            <p>ventas@artecolor.cl</p>
+                            <p>amir@artecolor.cl</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
