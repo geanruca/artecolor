@@ -15,3 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::post('/enviar_contacto','ContactosController@enviar_contacto')->name('enviar_contacto');
+Route::get('logs', '\Rap2hpoutre\LaravelLogViewer\LogViewerController@index');

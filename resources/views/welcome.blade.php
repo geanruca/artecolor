@@ -377,7 +377,7 @@
                 <div class="row">
                     <div class="col-lg-10 offset-lg-1">
                         <!--Contact Form-->
-                    <form id='contact-form' action="{{ action('ContactosController@enviar_contacto') }}" method='post'  autocomplete="on">
+                    <form action="{{ action('ContactosController@enviar_contacto') }}" method='post'  autocomplete="on">
                         @CSRF
                             <input type='hidden' name='form-name' value='contactForm' />
                             <div class="row">
@@ -438,13 +438,6 @@
                         <div class="contact-info">
                             <h5>Email</h5>
                             <p>amir@artecolor.cl</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <!--Contant Item-->
-                        <div class="contact-info">
-                            <h5>Address</h5>
-                            <p>123 lorem ipsum New York, USA.</p>
                         </div>
                     </div>
                 </div>
