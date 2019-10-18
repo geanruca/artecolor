@@ -377,7 +377,7 @@
                 <div class="row">
                     <div class="col-lg-10 offset-lg-1">
                         <!--Contact Form-->
-                    <form action="{{ action('ContactosController@enviar_contacto') }}" method='post'  autocomplete="on">
+                    <form  action="{{ route('enviar_contacto') }}" method='post'  autocomplete="on">
                         @CSRF
                             <input type='hidden' name='form-name' value='contactForm' />
                             <div class="row">

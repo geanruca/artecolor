@@ -39,13 +39,9 @@ class ContactosController extends Controller
                 "tema"     => $r->tema,
                 "mensaje"  => $r->mensaje,
             ]);
-
             $historial = Contacto::where('email', $r->email)->get(); 
-               
             Mail::to('jriquelme92@gmail.com')
             ->queue(new NuevoContacto($c, $historial));
-            // Mail::to('gruizrojas@gmail.com')
-            // ->queue(new NuevoContacto($c, $historial));
         }
 
         return back()->with('flash','Mensaje enviado con éxito. Nos pondremos en contacto con usted a la brevedad.');
